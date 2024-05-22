@@ -37,5 +37,9 @@ cout << i;
 이런 형태로 사용이 안됨.
 
 
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/01eb6ea6-18b2-44f9-84bc-0c1c3ab74661)
+
+
+
 
 안녕하세요
