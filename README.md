@@ -39,6 +39,10 @@ cout << i;
 
 ![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/01eb6ea6-18b2-44f9-84bc-0c1c3ab74661)
 
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/60bc1785-0f59-4ba5-813d-ba1dce325d3d)
+
+
+
 
 
 
