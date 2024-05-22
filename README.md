@@ -53,4 +53,65 @@ For문을 사용하여 백준 2739번 문제 풀이한 코드.
 
 
 
+
+#include <iostream>
+#include <list>
+#include <random>
+
+using namespace std;
+
+random_device rd;
+
+mt19937 gen(rd());
+
+uniform_int_distribution<int> dis(1, 20);
+
+list<int> number;
+void Create() {
+	for (int i = 0; i < 20; i++)
+	{
+		number.push_back(dis(gen));
+	}
+}
+;
+
+void Look() {for (auto i = number.begin(); i != number.end(); ++i)
+
+	cout << *i << endl;
+}
+
+int main() {
+
+
+	Create();
+
+	cout << "ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ\n" << endl;
+
+	Look();
+
+	number.sort();
+	for (int *i; *i < 20; *i++)
+	{
+		for (int *j ; *j<20; *j++)
+			if (number(*i) == number(*j))
+			{
+				number.remove(*i);
+			}
+
+
+
+	}
+	cout << "ㅡㅡㅡㅡㅡㅡㅡㅡ중복 자료 제거 ㅡㅡㅡㅡㅡㅡㅡㅡㅡ\n" << endl;
+	Look();
+	cout << "ㅡㅡㅡㅡㅡㅡㅡㅡ중복 자료 표기 ㅡㅡㅡㅡㅡㅡㅡㅡ\n" << endl;
+
+
+이 코드는 몇 가지 문제가 있습니다. 여기에는 다음과 같은 문제가 있습니다:
+
+중첩 반복문 내에서 루프 변수를 포인터로 사용하고 있습니다. 이것은 잘못된 접근 방식입니다. 포인터를 사용하여 루프를 제어하는 것은 잘못된 사용입니다. 포인터가 정의되지 않은 메모리 영역을 가리키거나, 무한 루프에 빠질 수 있습니다.
+
+중복된 숫자를 제거하는 부분에서 잘못된 방법을 사용하고 있습니다. list 컨테이너는 중복된 원소를 허용합니다. 중복된 원소를 제거하기 위해서는 다른 방법을 사용해야 합니다.
+
+중복된 원소를 제거하는 방법도 비효율적입니다. 중복된 원소를 찾아서 삭제할 때마다 모든 리스트를 순회하므로 시간 복잡도가 매우 높습니다.
+
 안녕하세요
