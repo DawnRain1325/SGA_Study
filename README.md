@@ -20,4 +20,22 @@ int expression 을 upadte expression 함 ( 예를들어 i++ 은 i 에 값을 사
 
 어떠한 표현식에도 세미콜론만 붙이면 statment(프로그램 실행단위)이 되나
 
+그 역은 성립이 되지 않음.
+
+다시 풀어서 말하자면 세미콜론을 안붙인다고 해서 statment가 안되는건 아님
+
+int a ; 는 구문
+
+eggs = int a *1000 ; 틀린표현 int a 가 expression 이 아님
+cin >> int a ; // 역시 틀린표현 cin과 선언을 결합 자체가 안됨.
+
+마찬가지로 for 루프를 변수에 대입하는것이 불가능
+
+int fx = for (i=0; i<4; i++)
+cout << i;
+
+이런 형태로 사용이 안됨.
+
+
+
 안녕하세요
