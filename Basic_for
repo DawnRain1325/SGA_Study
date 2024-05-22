@@ -1,0 +1,14 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+
+	int i;
+		for (i = 0; i < 9; i++)
+		{
+			cout << "현재 For문 반복한 횟수는" << i+1 << " 입니다." << endl;
+
+		}
+	return 0;
+}
