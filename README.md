@@ -42,6 +42,7 @@ cout << i;
 ![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/60bc1785-0f59-4ba5-813d-ba1dce325d3d)
 
 
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/d484f585-68ad-4534-9fd6-a1a8af815154)
 
 
 
