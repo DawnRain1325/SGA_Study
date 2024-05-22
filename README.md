@@ -45,7 +45,12 @@ cout << i;
 ![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/bc1238f4-a68b-41da-9180-aaf7d975257d)
 243P 에 For문 루프에 배열을 사용한 예제.
 
+
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/fbc4ab83-235f-4415-b2fe-72e63a8c53e0)
+
 ![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/36986e40-7537-41ba-b6ee-6c516829aa37)
 For문을 사용하여 백준 2739번 문제 풀이한 코드.
+
+
 
 안녕하세요
