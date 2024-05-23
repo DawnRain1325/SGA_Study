@@ -114,4 +114,21 @@ int main() {
 
 중복된 원소를 제거하는 방법도 비효율적입니다. 중복된 원소를 찾아서 삭제할 때마다 모든 리스트를 순회하므로 시간 복잡도가 매우 높습니다.
 
+
+
+While문의 기본개념 정의 
+
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/c691a0b2-feb2-4e0d-b2a7-9d6c31efb2fa)
+
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/8d4033be-11e1-4b0b-8e7d-8c661c7edf53)
+
+while 루프의 작동원리
+
+
+
+while 문으로 간단히 짜본 예제 코드
+
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/b57d9429-c6b0-499d-9f0d-9f5a0ec80e9a)
+
+
 안녕하세요
