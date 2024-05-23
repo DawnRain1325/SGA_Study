@@ -130,6 +130,9 @@ while 문으로 간단히 짜본 예제 코드
 
 ![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/b57d9429-c6b0-499d-9f0d-9f5a0ec80e9a)
 
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/d73e77d6-9c34-461c-8b45-6fecc0ff90b5)
+
+while for 형태로 변환
 
 예제 코드를 직접 for 으로 변환
 
