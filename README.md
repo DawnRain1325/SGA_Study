@@ -114,6 +114,10 @@ int main() {
 
 중복된 원소를 제거하는 방법도 비효율적입니다. 중복된 원소를 찾아서 삭제할 때마다 모든 리스트를 순회하므로 시간 복잡도가 매우 높습니다.
 
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/7b0ff1b6-89d1-4c64-b1d9-f6257e8440ba)
+
+foreach 문 에 대한 기본적인 개념.
+
 
 
 While문의 기본개념 정의 
