@@ -131,4 +131,9 @@ while 문으로 간단히 짜본 예제 코드
 ![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/b57d9429-c6b0-499d-9f0d-9f5a0ec80e9a)
 
 
+예제 코드를 직접 for 으로 변환
+
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/8c405a7c-7930-419b-bd2e-a9524f08016c)
+
+
 안녕하세요
