@@ -139,4 +139,17 @@ while for 형태로 변환
 ![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/8c405a7c-7930-419b-bd2e-a9524f08016c)
 
 
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/68d9ede8-a814-4935-a410-f0e4ac1403ba)
+
+
+do while 루프 프로그램의 흐름
+
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/2d92f435-7ec6-44ed-9cc9-76c48327f6c6)
+
+dowhile 문의 예제
+
+루프를 먼저 실행하고 조건을 나중에 검사하며
+
+사용자에게 값을 입력받아 반복문 돌릴때 유용한 구문.
+
 안녕하세요
