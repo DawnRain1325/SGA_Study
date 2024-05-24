@@ -116,7 +116,10 @@ int main() {
 
 ![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/7b0ff1b6-89d1-4c64-b1d9-f6257e8440ba)
 
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/338aaa66-b9a4-4e8b-a8db-1642aaef9976)
+
 foreach 문 에 대한 기본적인 개념.
+
 
 
 
@@ -156,4 +159,11 @@ dowhile 문의 예제
 
 사용자에게 값을 입력받아 반복문 돌릴때 유용한 구문.
 
-안녕하세요
+
+
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/3afcf8b8-936d-4a6f-b9ad-7566bcf5ab9f)
+
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/71532e77-6adb-4dc0-af5e-543b9ee3e196)
+
+cin.get 함수를 활용한 코드
+
