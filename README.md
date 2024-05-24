@@ -167,3 +167,42 @@ dowhile 문의 예제
 
 cin.get 함수를 활용한 코드
 
+cin.get 은 한 문자를 입력받아 반환하고 이 과정에서 공백 ,탭 ,개행 등의 문자를 다 읽음
+
+
+if문 
+
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/59efd307-f6c0-4e2b-8ccc-21b7320f709c)
+
+if문의 기본적인 구조
+
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/eab52acb-dfe6-40bf-9024-4c493ae837e5)
+
+if 문에 활용할수 있는 논리 연산자 
+
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/46fd03ca-da34-40dd-a2cd-c01bf82e97de)
+
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/c0261a2c-8b55-422d-84c7-8ba6634337ae)
+
+산술 연산자
+
+#include <iostream>
+
+using namespace std;
+
+
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/57a97be7-0e1a-4f4d-8ae8-63741542323c)
+
+
+백준 1330 번 문제
+
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/cc349ef2-edda-4910-a369-441d4d1301d8)
+
+백준 2884번 문제 (알람)
+
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/336ffa77-f9a6-4cb1-8dd1-27f942dccc82)
+
+백준 25304번 문제 (영수증)
+
+
+
