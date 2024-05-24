@@ -205,4 +205,15 @@ using namespace std;
 백준 25304번 문제 (영수증)
 
 
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/265ab53a-448a-4955-bb56-4941d9fc373e)
+
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/bc8c2b00-c6a7-4998-8007-eed915aa676d)
+
+
+switch 의 기본적인 구조
+
+![image](https://github.com/DawnRain1325/SGA_Study/assets/147826246/c6eb100a-5277-4d5f-be79-1fab749bd138)
+
+switch 사용시에 주의점
+
 
