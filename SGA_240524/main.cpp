@@ -25,30 +25,30 @@
 //
 //		if (nType == 1)
 //		{
-//			cout << "¸Û !!!!!!!!!! ¸Û!!!!!!!\n";
+//			cout << "ë© !!!!!!!!!! ë©!!!!!!!\n";
 //
 //		}
 //		else
 //		{
-//			cout << "¸Û ¸Û!\n";
+//			cout << "ë© ë©!\n";
 //		}
-//		cout << "¸Û ¸Û!\n";
+//		cout << "ë© ë©!\n";
 //	}
 //
 //	static void Display()
 //	{
 //		if (Dog::nType >= 0)
 //		{
-//			name = "°­¾ÆÁöÀÌ¸§";
+//			name = "ê°•ì•„ì§€ì´ë¦„";
 //		}
 //		
-//		cout << "static ÇÔ¼ö°¡ È£ÃâµÇ¾ú½À´Ï´Ù.\n";
+//		cout << "static í•¨ìˆ˜ê°€ í˜¸ì¶œë˜ì—ˆìŠµë‹ˆë‹¤.\n";
 //	}
 //};
 //class BlackDog : public Dog {
 //
 //public:
-//	void makesound() override { cout << "¸Û!!! ¸Û!!!!\n"; }
+//	void makesound() override { cout << "ë©!!! ë©!!!!\n"; }
 //};
 //int Dog::nType = 0;
 //
